@@ -1,0 +1,17 @@
+2024/04/14-19:20:29.626 4 Reusing MANIFEST /tmp/flutter_tools.TZMWGQ/flutter_tools_chrome_device.VHQRKM/Default/Session Storage/MANIFEST-000001
+2024/04/14-19:20:29.627 4 Recovering log #13
+2024/04/14-19:20:29.627 4 Reusing old log /tmp/flutter_tools.TZMWGQ/flutter_tools_chrome_device.VHQRKM/Default/Session Storage/000013.log 
+2024/04/14-19:20:29.628 4 Delete type=0 #3
+2024/04/14-19:20:29.628 4 Delete type=0 #10
+2024/04/14-19:21:38.651 7 Level-0 table #17: started
+2024/04/14-19:21:38.663 7 Level-0 table #17: 64375 bytes OK
+2024/04/14-19:21:38.672 7 Delete type=0 #13
+2024/04/14-19:21:38.672 7 Compacting 4@0 + 1@1 files
+2024/04/14-19:21:38.680 7 Generated table #18@0: 100 keys, 66136 bytes
+2024/04/14-19:21:38.680 7 Compacted 4@0 + 1@1 files => 66136 bytes
+2024/04/14-19:21:38.684 7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/04/14-19:21:38.685 7 Delete type=2 #17
+2024/04/14-19:21:38.685 7 Delete type=2 #9
+2024/04/14-19:21:38.685 7 Delete type=2 #7
+2024/04/14-19:21:38.685 7 Delete type=2 #11
+2024/04/14-19:21:38.685 7 Delete type=2 #14
